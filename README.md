@@ -1,5 +1,10 @@
 # djangogirls tutorial excersize
 
-refer to hppts://tutorial.djangogirls.org
+refer to [Django Girls Tutorial](https://tutorial.djangogirls.org)
+
+
+
+## References
+[markdown cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 
 
